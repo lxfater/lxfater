@@ -1,11 +1,13 @@
 | <img align="center" src="https://github-readme-stats-xcanwin.vercel.app/api?username=lxfater&show_icons=true&theme=algolia&hide=contribs,prs" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-xcanwin.vercel.app/api/top-langs/?username=lxfater&layout=compact&theme=algolia" /> |
 | ------------- | ------------- |
-- 👋 Hello, I am the Hammer Man. I have a general understanding of cryptography, machine learning, compiler principles, and graphics.
+- 👋 Hello, I am the Hammer Man. I have a general understanding of cryptography, machine learning, compiler theory, and computer graphics.
 - 👀 I am currently very interested in GPU programming, browser-side model optimization, and deployment.
 - 🌱 I am currently engaged in front-end plugin development work.
 - 💞️ Welcome to submit any PRs to my error-filled projects.
 - 📫 You can contact me through X, or follow me on GitHub to get the latest updates on my work.
 - 🌑 I code at midnight, please do not disturb me during this time.
+
+
 
 - 👋 你好，我是铁锤人。不学无术，了解点密码学，机器学习，编译原理和图形学
 - 👀 我目前对GPU编程，浏览器端模型优化和部署十分感兴趣
